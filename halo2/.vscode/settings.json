@@ -1,0 +1,15 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./halo2_proofs/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml",
+        "./halo2_gadgets/Cargo.toml"
+    ]
+}
